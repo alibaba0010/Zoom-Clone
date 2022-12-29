@@ -1,7 +1,9 @@
 cd server/
 
+# Install packages
 npm install 
 
-npm i express ejs socket.io uuid
+# Running peer server
+npm i -g peer
+peerjs --port 3001
 
-npm i -D nodemon
