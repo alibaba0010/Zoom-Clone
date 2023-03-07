@@ -1,9 +1,24 @@
 cd server/
 
 # Install packages
-npm install 
+```bash
+$ npm install
+```
 
 # Running peer server
-npm i -g peer
-peerjs --port 3001
+```bash
+# watch mode
+$ npm run start
 
+# development
+$ npm run dev
+```
+
+
+
+##  Author - Zakariyah Ali 
+- Linkedin Profile 
+https://tinyurl.com/zakariyahali
+## License
+
+  This Project is [ISC licensed](LICENSE).

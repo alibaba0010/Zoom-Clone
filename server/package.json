@@ -1,7 +1,7 @@
 {
   "name": "server",
   "version": "1.0.0",
-  "description": "",
+  "description": "A Zoom-Clone Project where you can join a room and message one another in the same room",
   "type": "module",
   "main": "src/server.js",
   "scripts": {
